@@ -1,17 +1,5 @@
 [
   {
-    "id": "xmas",
-    "theme": "dark",
-    "animation": "float",
-    "title": "Christmas Gift",
-    "subtitle": "Limited Offer",
-    "desc": "Buy 10 private lessons, get <span class='text-yellow-400 font-bold'>1 FREE</span>.",
-    "btnText": "Claim Offer",
-    "link": "https://putnikschool.com/1on1",
-    "image": "https://raw.githubusercontent.com/rostifeo/putnikschool/main/xmas_gift.webp",
-    "imageScale": 0.8
-  },
-  {
     "id": "travel",
     "theme": "purple",
     "animation": "slide",
