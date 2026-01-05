@@ -1,4 +1,16 @@
 [
+    {
+    "id": "podcast",
+    "theme": "gray",
+    "animation": "pop",
+    "title": "Fairy Tale Podcasts",
+    "subtitle": "FREE",
+    "desc": "Rosti read short fairy tales slowly. Follow along with text, translations, and vocabulary breakdowns on every episode page.",
+    "btnText": "Listen",
+    "link": "https://putnikschool.com/podcast",
+    "image": "https://raw.githubusercontent.com/rostifeo/putnikschool/main/girl_podcast.webp",
+    "imageScale": 1.1
+  },
   {
     "id": "travel",
     "theme": "purple",
