@@ -1,4 +1,13 @@
 [
+    {
+    "id": 2,
+    "title": "The Hippo Who Feared Vaccinations (Про Бегемота, который боялся прививок)",
+    "description": "A charming tale about a timid hippo that helps you learn basic house vocabulary and how to express fears in Russian.",
+    "level": "A1",
+    "duration": 7,
+    "link": "/podcast_ep2",
+    "tags": ["#short_story"]
+  },
   {
     "id": 1,
     "title": "The Moody Cat (Капризная Кошка)",
